@@ -1,0 +1,1 @@
+Hello, I’m Manish. My project is the “Vortex Core Admin Dashboard”  a slick web UI for managing cloud infrastructure. It’s built with pure HTML/CSS and includes a dark sidebar nav, metric cards , an SVG traffic chart, a health grid, a provisioning table, and scrolling terminal logs.A fun, professional front-end workout.
